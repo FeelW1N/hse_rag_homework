@@ -8,3 +8,6 @@ __pycache__/
 outputs/
 index/
 /data/reports/
+artifacts/
+runs/
+.pytest_cache/
